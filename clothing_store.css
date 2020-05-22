@@ -93,7 +93,7 @@
               
 
             .image{
-                background-image: url("/media/shijas/New Volume/web dev/cloth1.jpg");
+                background-image: url("cloth1.jpg");
                 background-size: 100% 100%;
                 background-position: center;
                 position: relative;
